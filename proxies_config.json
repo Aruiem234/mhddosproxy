@@ -549,6 +549,6 @@
       "type": 4,
       "url": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt",
       "timeout": 5
-    },
+    }
   ]
 }
