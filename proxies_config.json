@@ -534,6 +534,21 @@
       "type": 5,
       "url": "https://raw.githubusercontent.com/opengs/uashieldtargets/v2/proxy.json",
       "timeout": 5
-    }
+    },
+    {
+      "type": 1,
+      "url": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",
+      "timeout": 5
+    },
+    {
+      "type": 5,
+      "url": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt",
+      "timeout": 5
+    },
+    {
+      "type": 4,
+      "url": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt",
+      "timeout": 5
+    },
   ]
 }
